@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Yukiakari (Korean ver.)",
+  "base_artist": "&TEAM",
+  "createdAt": "2026-01-07T10:48:32.726646Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yukiakari - Korean ver.",
+      "artist": "&TEAM",
+      "has_synced": true,
+      "path": "select/01_Yukiakari_-_Korean_ver._&TEAM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yukiakari (Korean ver.)",
+      "artist": "&TEAM",
+      "has_synced": true,
+      "path": "select/02_Yukiakari_(Korean_ver.)_&TEAM.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yukiakari (Korean ver.)",
+      "artist": "&TEAM",
+      "has_synced": false,
+      "path": "select/03_Yukiakari_(Korean_ver.)_&TEAM.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Yukiakari (Korean ver.)",
+      "artist": "&TEAM",
+      "has_synced": false,
+      "path": "select/pl_01_Yukiakari_(Korean_ver.)_&TEAM.txt"
+    }
+  ]
+}
